@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : D:\University\7\FPGA\Project\FPGA_Board\FPGA_Board.PcbDoc
+Date         : 1/31/2024
+Time         : 8:47:03 PM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 99.74%
+    Connections, 757
+    Connections routed, 755
+    Connections remaining, 2
+count : 4
